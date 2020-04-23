@@ -59,23 +59,14 @@ footer{
   font-family: 'Indie Flower', cursive;
   color: #eeeeee;
 }
-@media (max-width: 770px){
+@media (max-width: 920px){
+  h1{
+    font-size: 4rem;
+  }
   img{
-    width: 50%;
+    width: 60%;
   }
   p{
     font-size: 1rem;
   }
-  h1{
-    font-size: 3rem;
-  }
-  .dice{
-    width: 40%;
-    height: 40%;
-  }
-}
-@media (max-width: 1080px){
-h1{
-font-size: 4rem;
-}
 }
